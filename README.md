@@ -64,25 +64,20 @@ I am a passionate **Full-Stack Developer** specialized in designing robust backe
 ---
 
 ### 🚀 Featured Projects
-
-Here are some of the projects I've built:
-
-*   🌐 **[Ticketing Microservices](https://github.com/mesiddhantcodes/ticketing-microservices)**: An event-driven, scalable multi-service platform for ticket purchasing, designed using modern microservices patterns.
-*   ⚡ **[Asana Backend Clone](https://github.com/mesiddhantcodes/asana-backend)**: A comprehensive task management platform backend implemented with NestJS and TypeScript.
-*   🎬 **[Movies GPT Backend](https://github.com/mesiddhantcodes/movies-gpt-backend)**: A smart backend service integrating GPT recommendations to curate personalized movie lists.
-*   🍔 **[Food Ordering App](https://github.com/mesiddhantcodes/food-ordering-app)**: A modern, performant, responsive single-page web app built with React, Redux Toolkit, and Tailwind CSS.
-*   📝 **[Event Logging System](https://github.com/mesiddhantcodes/event-logging-system)**: A high-throughput, low-latency asynchronous event logger in Node.js.
-
+*   👟 **[Athlo](https://github.com/mesiddhantcodes/athlo)**: A smart sports and fitness platform that simplifies facility bookings and membership management. Built with a React/Next.js frontend and a NestJS backend.
+*   🌐 **[Ticketing Microservices](https://github.com/mesiddhantcodes/ticketing-microservices)**: Scalable, event-driven multi-service platform for online booking. Built with Node, Express, Docker, and NATS Streaming.
+*   ⚡ **[Asana Backend Clone](https://github.com/mesiddhantcodes/asana-backend)**: Robust NestJS & TypeScript backend engine for real-time team collaboration and workspace management.
+*   🎬 **[Movies GPT Backend](https://github.com/mesiddhantcodes/movies-gpt-backend)**: Intelligently matches user queries with movie databases using GPT API embeddings and recommendations.
+*   🍔 **[Food Ordering App](https://github.com/mesiddhantcodes/food-ordering-app)**: High-performance Single-Page Application (SPA) leveraging React, Redux Toolkit, and Tailwind CSS.
+*   📝 **[Event Logging System](https://github.com/mesiddhantcodes/event-logging-system)**: Ultra-fast asynchronous logging platform handling millions of events in Node.js.
 ---
+
 
 ### 📊 GitHub Stats & Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mesiddhantcodes&show_icons=true&locale=en&theme=tokyonight&hide_border=false" alt="Siddhant's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mesiddhantcodes&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false" alt="Siddhant's Top Languages" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mesiddhantcodes&theme=tokyonight" alt="GitHub Streak" width="97%" />
 </p>
 ---
 
