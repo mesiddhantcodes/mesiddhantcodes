@@ -1,7 +1,13 @@
 # Hi, I'm Siddhant Kumar 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7197fc&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Node.js+%2F+NestJS+Expert;React+%26+Frontend+Enthusiast;ML+%26+DSA+Explorer" alt="Typing SVG" />
+  <img src="./siddhant_banner.png" alt="Siddhant's Cyberpunk Banner" width="100%" />
+</p>
+
+# <p align="center">⚡ SECURE_CONNECTION_ESTABLISHED: SIDDHANT_KUMAR ⚡</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&width=500&lines=%5B%E2%96%B6%5D+INITIALIZING+SYSTEM...;%5B%E2%96%B6%5D+FULL+STACK+ENGINEER+DETECTED;%5B%E2%96%B6%5D+NODE.JS+%2F+NESTJS+EXPERT;%5B%E2%96%B6%5D+REACT+%2F+REDUX+ENTHUSIAST;%5B%E2%96%B6%5D+ML+%2F+DSA+PRACTITIONER" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,7 +17,7 @@
   <a href="https://twitter.com/mesiddhantcodes" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://komarev.com/ghpvc/?username=mesiddhantcodes&style=for-the-badge&color=blue" alt="Profile Views" />
+  <a href="https://komarev.com/ghpvc/?username=mesiddhantcodes&style=for-the-badge&color=ff007f" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -20,7 +26,10 @@
 
 ---
 
-### 💫 About Me
+### 💻 SYSTEM DIAGNOSTICS (About Me)
+
+---
+
 
 I am a passionate **Full-Stack Developer** specialized in designing robust backend systems (Node.js/NestJS) and creating interactive, responsive user interfaces (React/Redux). In addition to web engineering, I enjoy exploring **Machine Learning** and applying **Data Structures & Algorithms (DSA)** to solve complex optimization problems.
 
@@ -31,35 +40,43 @@ I am a passionate **Full-Stack Developer** specialized in designing robust backe
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🎮 DEVELOPER STATS
 
-#### 💻 Languages & Runtimes
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,cpp" />
-  </a>
-</p>
+---
 
-#### 🎨 Frontend Development
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap" />
-  </a>
-</p>
+### 🛠️ TECH ARSENAL
 
-#### 🗄️ Backend, Databases & DevOps
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nestjs,mongodb,postgres,mysql,redis,docker,git,aws" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <b>⚡ Core & Runtimes</b>
+      <br/><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,cpp" /></a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>🎨 Frontend Web</b>
+      <br/><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap" /></a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>🗄️ Backend & Cloud</b>
+      <br/><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express,nestjs,mongodb,postgres,mysql,redis,docker,git,aws" /></a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>🧠 Intelligent Systems</b>
+      <br/><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" /></a>
+    </td>
+  </tr>
+</table>
 
-#### 🧠 Machine Learning & Data Science
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-  </a>
-</p>
+---
+
+### 📂 LOG_FILES: RECENT_DEPLOYMENTS (Featured Projects)
+
+```bash
+$ cat active_deployments.log
 
 ---
 
