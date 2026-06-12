@@ -1,7 +1,5 @@
-# Hi, I'm Siddhant Kumar 👋
-
 <p align="center">
-  <img src="./siddhant_banner.png" alt="Siddhant's Cyberpunk Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Siddhant%20Kumar&fontSize=70&theme=radical" alt="Capsule Render Banner" width="100%" />
 </p>
 
 # <p align="center">⚡ SECURE_CONNECTION_ESTABLISHED: SIDDHANT_KUMAR ⚡</p>
@@ -28,9 +26,6 @@
 
 ### 💻 SYSTEM DIAGNOSTICS (About Me)
 
----
-
-
 I am a passionate **Full-Stack Developer** specialized in designing robust backend systems (Node.js/NestJS) and creating interactive, responsive user interfaces (React/Redux). In addition to web engineering, I enjoy exploring **Machine Learning** and applying **Data Structures & Algorithms (DSA)** to solve complex optimization problems.
 
 - 🌱 **Currently working on:** Distributed systems, scalable microservices, and state-of-the-art frontend experiences.
@@ -41,6 +36,7 @@ I am a passionate **Full-Stack Developer** specialized in designing robust backe
 ---
 
 ### 🎮 DEVELOPER STATS
+
 
 ---
 
@@ -77,30 +73,3 @@ I am a passionate **Full-Stack Developer** specialized in designing robust backe
 
 ```bash
 $ cat active_deployments.log
-
----
-
-### 🚀 Featured Projects
-
-Here are some of the projects I've built:
-
-*   🌐 **[Ticketing Microservices](https://github.com/mesiddhantcodes/ticketing-microservices)**: An event-driven, scalable multi-service platform for ticket purchasing, designed using modern microservices patterns.
-*   ⚡ **[Asana Backend Clone](https://github.com/mesiddhantcodes/asana-backend)**: A comprehensive task management platform backend implemented with NestJS and TypeScript.
-*   🎬 **[Movies GPT Backend](https://github.com/mesiddhantcodes/movies-gpt-backend)**: A smart backend service integrating GPT recommendations to curate personalized movie lists.
-*   🍔 **[Food Ordering App](https://github.com/mesiddhantcodes/food-ordering-app)**: A modern, performant, responsive single-page web app built with React, Redux Toolkit, and Tailwind CSS.
-*   📝 **[Event Logging System](https://github.com/mesiddhantcodes/event-logging-system)**: A high-throughput, low-latency asynchronous event logger in Node.js.
-
----
-
-### 📊 GitHub Stats & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mesiddhantcodes&show_icons=true&locale=en&theme=tokyonight&hide_border=false" alt="Siddhant's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mesiddhantcodes&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false" alt="Siddhant's Top Languages" width="48%" />
-</p>
-
----
-
-<p align="center">
-  🚀 <i>"The best error message is the one that never shows up."</i>
-</p>
