@@ -1,7 +1,7 @@
 # Hi, I'm Siddhant Kumar 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7197fc&center=true&vCenter=true&width=450&lines=Backend+Developer;Node.js+%2F+JavaScript+Expert;ML+%26+Deep+Learning+Enthusiast;DSA+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7197fc&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Node.js+%2F+NestJS+Expert;React+%26+Frontend+Enthusiast;ML+%26+DSA+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,10 +22,10 @@
 
 ### 💫 About Me
 
-I am a passionate **Backend Developer** specializing in building robust, scalable APIs and services using **Node.js**. Alongside backend systems, I enjoy exploring **Machine Learning** and applying **Data Structures & Algorithms (DSA)** to solve complex optimization problems.
+I am a passionate **Full-Stack Developer** specialized in designing robust backend systems (Node.js/NestJS) and creating interactive, responsive user interfaces (React/Redux). In addition to web engineering, I enjoy exploring **Machine Learning** and applying **Data Structures & Algorithms (DSA)** to solve complex optimization problems.
 
-- 🌱 **Currently working on:** Advanced backend engineering and scaling cloud infrastructures.
-- 🧠 **Interests:** Machine Learning algorithms, system design, and competitive programming.
+- 🌱 **Currently working on:** Distributed systems, scalable microservices, and state-of-the-art frontend experiences.
+- 🧠 **Interests:** System design, microservices architecture, machine learning models, and DSA.
 - ⚡ **Fun fact:** *Declare variables, not war!* 💻
 - 📫 **Let's connect:** Reach out to me on [LinkedIn](https://www.linkedin.com/in/mesiddhantcodes/) or [Twitter](https://twitter.com/mesiddhantcodes).
 
@@ -33,17 +33,24 @@ I am a passionate **Backend Developer** specializing in building robust, scalabl
 
 ### 🛠️ Tech Stack & Skills
 
-#### 💻 Languages & Frameworks
+#### 💻 Languages & Runtimes
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,py,cpp" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,cpp" />
   </a>
 </p>
 
-#### 🗄️ Databases & DevOps
+#### 🎨 Frontend Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,docker,git,github,aws" />
+    <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap" />
+  </a>
+</p>
+
+#### 🗄️ Backend, Databases & DevOps
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,nestjs,mongodb,postgres,mysql,redis,docker,git,aws" />
   </a>
 </p>
 
@@ -53,6 +60,18 @@ I am a passionate **Backend Developer** specializing in building robust, scalabl
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
   </a>
 </p>
+
+---
+
+### 🚀 Featured Projects
+
+Here are some of the projects I've built:
+
+*   🌐 **[Ticketing Microservices](https://github.com/mesiddhantcodes/ticketing-microservices)**: An event-driven, scalable multi-service platform for ticket purchasing, designed using modern microservices patterns.
+*   ⚡ **[Asana Backend Clone](https://github.com/mesiddhantcodes/asana-backend)**: A comprehensive task management platform backend implemented with NestJS and TypeScript.
+*   🎬 **[Movies GPT Backend](https://github.com/mesiddhantcodes/movies-gpt-backend)**: A smart backend service integrating GPT recommendations to curate personalized movie lists.
+*   🍔 **[Food Ordering App](https://github.com/mesiddhantcodes/food-ordering-app)**: A modern, performant, responsive single-page web app built with React, Redux Toolkit, and Tailwind CSS.
+*   📝 **[Event Logging System](https://github.com/mesiddhantcodes/event-logging-system)**: A high-throughput, low-latency asynchronous event logger in Node.js.
 
 ---
 
