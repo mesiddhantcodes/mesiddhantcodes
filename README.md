@@ -64,7 +64,7 @@ I am a passionate **Full-Stack Developer** specialized in designing robust backe
 ---
 
 ### 🚀 Featured Projects
-*   👟 **[Athlo](https://github.com/mesiddhantcodes/athlo)**: A smart sports and fitness platform that simplifies facility bookings and membership management. Built with a React/Next.js frontend and a NestJS backend.
+*   👟 **[Athlo AI](https://github.com/mesiddhantcodes/athlo-ai)**: A smart workout tracker and nutrition planner. Features a React frontend client and a high-performance **FastAPI (Python)** backend with JWT auth, OTP login, calorie/macro calculators (Mifflin-St Jeor & Katch-McArdle), and volume & 1RM analytics. *(Repos: [Client](https://github.com/mesiddhantcodes/athlo-ai) | [Backend](https://github.com/mesiddhantcodes/athlo-ai-backend))**
 *   🌐 **[Ticketing Microservices](https://github.com/mesiddhantcodes/ticketing-microservices)**: Scalable, event-driven multi-service platform for online booking. Built with Node, Express, Docker, and NATS Streaming.
 *   ⚡ **[Asana Backend Clone](https://github.com/mesiddhantcodes/asana-backend)**: Robust NestJS & TypeScript backend engine for real-time team collaboration and workspace management.
 *   🎬 **[Movies GPT Backend](https://github.com/mesiddhantcodes/movies-gpt-backend)**: Intelligently matches user queries with movie databases using GPT API embeddings and recommendations.
