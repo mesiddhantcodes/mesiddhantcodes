@@ -73,3 +73,9 @@ I am a passionate **Full-Stack Developer** specialized in designing robust backe
 
 ```bash
 $ cat active_deployments.log
+  ├── 👟 Athlo ................... Sports & fitness booking platform
+  ├── 🌐 Ticketing ............... Event-driven microservices booking system
+  ├── ⚡ Asana Clone ............. Workspace management backend
+  ├── 🎬 Movies GPT .............. GPT-based movie recommendation engine
+  ├── 🍔 Food Order .............. React, Redux Toolkit & Tailwind client
+  └── 📝 Event Logger ............ High-throughput asynchronous logger
